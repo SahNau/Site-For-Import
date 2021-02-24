@@ -2,7 +2,7 @@
 
 *_old
 
-*.bacup 
+*_backup
 
 Thumbs.db
 
