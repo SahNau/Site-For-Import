@@ -1,5 +1,9 @@
 /tmp
+
 *_old
-*/_bacup 
+
+_bacup 
+
 Thumbs.db
+
 .DS_Store
